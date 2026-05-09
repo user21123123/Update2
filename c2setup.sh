@@ -3,7 +3,7 @@
 set -e
 
 DEFAULT_GITHUB_OWNER="user21123123"
-DEFAULT_GITHUB_BRANCH="op0.6.6"
+DEFAULT_GITHUB_BRANCH="op0.7.10"
 
 cd /data
 rm -rf openpilot
