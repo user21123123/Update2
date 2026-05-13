@@ -4,7 +4,7 @@ set -e
 
 cd /data
 rm -rf openpilot
-time git clone https://github.com/ksmola/openpilot-tinkla.git openpilot -b tesla_unity_beta --recurse-submodules --depth 1
+time git clone https://github.com/ksmola/openpilot-tinkla.git openpilot -b tesla_0.6.6_new_pid --recurse-submodules --depth 1
 
 cd /data/data/com.termux/files
 echo $'#!/usr/bin/bash\n\ncd /data/openpilot\n./launch_openpilot.sh\n' > continue.sh
