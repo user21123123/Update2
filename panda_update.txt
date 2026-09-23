@@ -1,0 +1,2 @@
+{"version": "v1.5.2-DEV-736c2cbf-RELEASE",
+ "url": "https://github.com/commaai/panda-artifacts/raw/refs/heads/master/panda-v1.5.2-DEV-736c2cbf-RELEASE.zip"}
